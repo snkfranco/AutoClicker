@@ -5,7 +5,7 @@
   Este é um código de um autoclicker desenvolvido em um vídeo no YouTube. Você pode assistir ao vídeo clicando [aqui](https://www.youtube.com/watch?v=77CRRPqzQEA).
 
   ## Inscreva-se no meu canal!
-  Para mais conteúdo como este, inscreva-se no meu canal do YouTube: [Universo do Dev](https://www.youtube.com/channel/UCdzyu7tR7Vzkcq-gjo2ftmQ).
+  Para mais conteúdo como este, inscreva-se no meu canal do YouTube: [Código Roxo](https://www.youtube.com/channel/UCdzyu7tR7Vzkcq-gjo2ftmQ).
 
   <a href="https://www.youtube.com/channel/UCdzyu7tR7Vzkcq-gjo2ftmQ">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red" alt="YouTube Subscribe">
